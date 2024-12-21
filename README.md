@@ -55,6 +55,7 @@ The dataset covers various regions in the United States, this model  is trained 
 
 **Preprocessing Steps**:
 - Select a valid region in the United States to train or test the model 
+- Determine features
 
 ---
 
